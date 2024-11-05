@@ -1,0 +1,44 @@
+/*  */
+#wel {
+    display: inline-block;
+    margin: 40px;
+    vertical-align: top;
+    width: 600px;
+    max-width: 80%;
+    border: thick solid black;
+    padding: 12px 10px 20px 8px;
+}
+header #aboutimg{
+    text-align: center;
+    width:99%;
+    max-width:99%;
+    height:30%;
+}
+#Highlights{
+    display: inline-block;
+    margin-top: 40px;
+    vertical-align: top;
+    width: 600px;
+    max-width: 80%;
+    text-align: center;
+}
+caption{
+    padding-top: 13px;
+    font-size: 20px;
+    text-align: center;
+    background-color: gold;
+    height: 40px;
+}
+
+caption:hover{
+    background-color: aqua !important;
+}
+#table5:hover{
+    background-color: chartreuse !important;
+}
+.table31 tr:nth-child(odd){
+    background-color: antiquewhite !important;
+}
+.table32 tr:nth-child(odd){
+    background-color: rgb(255, 234, 1) !important;
+}
